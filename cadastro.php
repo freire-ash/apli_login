@@ -42,8 +42,8 @@
     <div>
       <h3 class="float-md-start mb-0">inicio</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link active" aria-current="page" href="index.php">início</a>
-        <a class="nav-link" href="cadastro.php">cadastro</a>
+        <a class="nav-link" aria-current="page" href="index.php">início</a>
+        <a class="nav-link active" href="cadastro.php">cadastro</a>
         <a class="nav-link" href="login.php">login</a>
       </nav>
     </div>
@@ -51,7 +51,7 @@
 
 
 </div>
-!
+
 
     
   </body>
