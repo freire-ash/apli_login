@@ -11,6 +11,7 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
 
     
+    
 
     <!-- Bootstrap core CSS -->
 <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -29,9 +30,9 @@
           font-size: 3.5rem;
         }
       }
-  (
+  
 
-  )
+  
   
     </style>
 
@@ -53,7 +54,7 @@
   </header>
 
   <main class="px-3">
-    <h1>sejam todos bem vindos❤️</h1>
+    <h1>sejam todos bem vindos*❤️*</h1>
     <p class="lead">essa estilização é uma prosposta feita em sala de aula pelo leonardo rocha para aprendermos a conectar back-end com o front-end especificamente com o banco de dados, acesse esse repositorio no  </p>
     <p class="lead">
       <a href="https://github.com/freire-ash" class="btn btn-lg btn-secondary fw-bold border-white bg-white">github</a>
