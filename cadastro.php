@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.84.0">
-    <title>Cover Template · Bootstrap v5.0</title>
+    <title>cadastre-se</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/cover/">
 
@@ -49,10 +49,21 @@
     </div>
   </header>
 
-
 </div>
 
-
+<div id= "highlander">
+    <label for="">E-mail</label>
+ <input type="text" id="email" name="email">
+    </div>
     
+<div id="smallander">
+<label for="">senha</label>
+<input type="text" id="senha" name="senha">
+</div>
+        <div id="midlander">
+            <label for="">confirme a senha</label>
+        <input type="text" id="confirma_senha" name="senha">
+        <a id="cadastrar" class="btn btn-lg btn-secondary fw-bold border-white bg-white" href="">cadastrar</a>
+    </div>
   </body>
 </html>

@@ -59,10 +59,14 @@ body {
 position:absolute;
 bottom: 400px;
 right:570px}
+#midlander{position:absolute;
+    bottom: 280px;
+    right:570px;}
 #smallander{position:absolute;
     bottom: 340px;
     right:570px;
     }
+   
     input{border-radius: 5px;
         border: 1px solid #6e6e6e;
 color: rgb(255, 255, 255);
@@ -73,4 +77,6 @@ background-color: rgb(27, 27, 27);
        #entrar{position: absolute;
         bottom: 280px;
     right: 620px}
-
+ #cadastrar{position:absolute;
+    bottom: 280px;
+    right:570px;}
